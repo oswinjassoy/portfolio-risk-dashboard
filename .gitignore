@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+app_backup.py
+app_copy.py
+app_copy.py copy for github.py
