@@ -152,7 +152,9 @@ st.subheader("Portfolio vs S&P 500 Benchmark")
 
 period_options = {
     "1 Year": "1y",
+    "2 Years": "2y",
     "3 Years": "3y",
+    "4 Years": "4y",
     "5 Years": "5y",
 }
 
