@@ -156,6 +156,7 @@ period_options = {
     "3 Years": "3y",
     "4 Years": "4y",
     "5 Years": "5y",
+    "6 Years": "6y",
 }
 
 selected_period = st.selectbox(
